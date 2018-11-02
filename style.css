@@ -2,6 +2,31 @@ h1 {
   text-align: center;
 }
 
+table {
+  margin: 0 auto;
+}
+
 td {
-  border: 3px red solid;
+  width: 100px;
+  height: 100px;
+}
+
+.first #thirdtd {
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+}
+
+.second td {
+  border-top: 2px black solid;
+  border-bottom: 2px black solid;
+}
+
+.second #midtd {
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+}
+
+.third #lasttd {
+  border-left: 2px black solid;
+  border-right: 2px black solid;
 }

@@ -11,22 +11,12 @@ td {
   height: 100px;
 }
 
-.first #thirdtd {
+.vertical {
   border-left: 2px black solid;
   border-right: 2px black solid;
 }
 
-.second td {
+.horizontal {
   border-top: 2px black solid;
   border-bottom: 2px black solid;
-}
-
-.second #midtd {
-  border-left: 2px black solid;
-  border-right: 2px black solid;
-}
-
-.third #lasttd {
-  border-left: 2px black solid;
-  border-right: 2px black solid;
 }
